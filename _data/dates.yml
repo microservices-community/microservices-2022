@@ -1,0 +1,73 @@
+- summary: Abstract Submission Deadline
+  id: submission
+  expired: false
+  entries:
+    - date: XXXX-XX-XX
+      zone:
+        tzid: Etc/GMT-12
+        label: AoE (UTC-12)
+    # - date: XX-XX-XX      SUBSEQUENT DATES CROSS OUT PREVIOUS ONES
+      # zone:
+      #   tzid: Etc/GMT-12
+      #   label: AoE (UTC-12)
+- summary: Author Notification
+  id: notification
+  expired: false
+  entries: 
+    - date: XXXX-XX-XX
+      zone:
+        tzid: Etc/GMT-12
+        label: AoE (UTC-12)
+  
+- summary: Camera-ready
+  id: camera-ready
+  expired: false
+  entries: 
+    - date: XXXX-XX-XX
+      zone:
+        tzid: Etc/GMT-12
+        label: AoE (UTC-12)
+  
+- summary: Registration
+  hide_from: ics
+  id: registration
+  expired: false
+  entries: 
+    - from: XXXX-XX-XX
+      to: XXXX-XX-XX
+      zone:
+        tzid: Europe/Berlin
+        label: CET (UTC+1)
+
+- summary: Registration opens
+  hide_from: website
+  id: registration_opens
+  expired: false
+  entries: 
+    - date: XXXX-XX-XX
+      zone:
+        tzid: Europe/Berlin
+        label: CET (UTC+1)
+
+
+- summary: Registration closes
+  hide_from: website
+  id: registration_closes
+  expired: false
+  entries: 
+    - date: XXXX-XX-XX
+      zone:
+        tzid: Europe/Berlin
+        label: CET (UTC+1)
+
+- summary: 
+    website: Conference
+    calendar: Microservices XXXX
+  id: conference
+  expired: false
+  entries:
+    - from: XXXX-XX-XX
+      to: XXXX-XX-XX
+      zone:
+        tzid: Europe/Berlin
+        label: CET (UTC+1)

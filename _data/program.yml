@@ -1,0 +1,183 @@
+---
+- day: Month XXth
+  color: "#aeb4ff"
+  theme: First Theme
+  events:
+    - title: Registration desk open
+      from: "8:00"
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue"><a href="/../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a></a>
+    - title: Welcome and Opening Speech
+      from: "9:15"
+      to: "10:00"
+      authors:
+        - name: Host Name
+          title: Speakers
+      description: |
+        Opening speech to welcome all the attendees and
+        introduce the organisation and the environment around the conference.
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Coffee Break
+      from: "10:00"
+      to: "10:20"
+      non-session: true
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Foundations of Design
+      chairs:
+        - Chair Name
+      from: "10:30"
+      to: "12:10"
+      papers:
+        - 29
+        - 12
+        - 20
+        - 11
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Lunch
+      from: "12:10"
+      to: "13:10"
+      non-session: true
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - from: "13:20"
+      to: "14:20"
+      chairs:
+        - Chair Name
+      authors:
+        - name: Speaker Name
+          title: Speaker
+      title: Title
+      description: |
+        <a href="https://conf-micro.services../keynotes/#title">
+        Abstract of the keynote</a>
+      slides: /keynotes/Speaker.pdf
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Topic Name
+      chairs:
+        - Chair Name
+      from: "14:20"
+      to: "15:10"
+      papers:
+        - 24
+        - 16
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Coffee Break
+      from: "15:10"
+      to: "15:30"
+      non-session: true
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Topic Name
+      chairs:
+        - Chair Name
+      from: "15:30"
+      to: "16:20"
+      papers:
+        - 17
+        - 18
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Short talks
+      chairs:
+        - Chair Name
+      from: "16:20"
+      to: "17:00"
+      papers:
+        - 23
+        - 9
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>    
+
+- day: Month 20th
+  color: "#aee9ff"
+  theme: Theme Name
+  events:
+    - title: Registration desk open
+      from: "8:00"
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - from: "9:00"
+      to: "10:00"
+      authors:
+        - name: Speaker Name
+          title: Speaker
+      title: Keynote Title
+      chairs:
+        - Chair Name
+      description: |
+        <a href="https://conf-micro.services../keynotes/#title">
+        Abstract of the keynote</a>
+      slides: /keynotes/Speaker.pdf
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Coffee Break
+      from: "10:00"
+      to: "10:20"
+      non-session: true
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Topic Name
+      chairs:
+        - Chair Name
+      from: "10:30"
+      to: "12:10"
+      papers:
+        - 21
+        - 26
+        - 5
+        - 13
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Lunch
+      from: "12:10"
+      to: "12:50"
+      non-session: true
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - from: "13:00"
+      to: "14:00"
+      authors:
+        - name: Keynote Speaker Name
+          title: Speaker
+      title: Keynote Title
+      chairs:
+        - Chair Name
+      description: |
+        <a href="https://conf-micro.services../keynotes/#title">
+        Abstract of the keynote</a>
+      slides: keynotes/Speaker.pdf
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - from: "14:00"
+      to: "14:20"
+      authors:
+        - name: Speaker Name
+          title: Speaker title
+      title: Title
+      description: |
+        Description
+      chairs:
+        - Chair Name
+        - Chair Name
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Topic Name
+      chairs:
+        - Chair Name
+      from: "14:20"
+      to: "15:10"
+      papers:
+        - 8
+        - 22
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Coffee Break
+      from: "15:10"
+      to: "15:30"
+      non-session: true
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Topic Name
+      chairs:
+        - Chair Name
+      from: "15:30"
+      to: "16:20"
+      papers:
+        - 3
+        - 31
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Topic name
+      chairs:
+        - Chair Name
+      from: "16:20"
+      to: "17:00"
+      papers:
+        - 15
+        - 10
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>    

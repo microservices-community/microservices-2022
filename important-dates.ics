@@ -1,0 +1,58 @@
+---
+layout: none
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://conf-micro.services/2019 {% comment %}{{ site.url }}{% endcomment %}
+NAME:{{ site.title }}
+X-WR-CALNAME:{{ site.title }}
+REFRESH-INTERVAL;VALUE=DURATION:PT24H
+X-PUBLISHED-TTL:PT24H
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Etc/GMT+12
+BEGIN:STANDARD
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+TZNAME:AoE
+DTSTART:19701025T020000
+END:STANDARD
+END:VTIMEZONE
+{%- for event in site.data.dates -%}
+  {%- unless date.hide_from contains "ics" -%}
+  {%- assign entry = event.entries.first -%}
+  {%- if entry %}
+BEGIN:VEVENT
+DTSTAMP:{{ "now" | date: "%Y%m%dT%H%M%SZ" }}
+SEQUENCE:{{ event.entries | size }}
+UID:{{ event.id }}@{{ site.url }}
+    {%- if entry.date %}
+DTSTART;VALUE=DATE;TZID={{entry.zone.tzid}}:{{ entry.date | date: "%Y%m%d" }}
+    {%- elsif entry.from and entry.to %}
+DTSTART;VALUE=DATE;TZID={{entry.zone.tzid}}:{{ entry.from | date: "%Y%m%d" }}
+DTEND;VALUE=DATE;TZID={{entry.zone.tzid}}:{{ entry.to | date:'%s' | plus:86400 | date: "%Y%m%d" }}
+    {%- endif %}
+SUMMARY:{{ event.summary.calendar | default: event.summary }}
+END:VEVENT
+  {%- endif -%}
+  {%- endunless %}
+{%- endfor %}
+END:VCALENDAR

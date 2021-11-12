@@ -1,0 +1,63 @@
+# Event parameters ------------------------------------------------------------
+edition: 2022
+title: Microservices 2022
+baseurl: /2022
+header:
+  city: "City"
+  dates: "XX-YY Month 2022"
+email: microservices2022@microservices.community # contact email
+description: "Academia meets Industry"
+timezone: Europe/Rome
+# twitter_feed: c_microservices 
+# legal_notice_url: /legal-notice
+community_badge:
+  asset: "1-black.png"
+  token: "microservices2022"
+
+# Site navigation -------------------------------------------------------------
+navigation_header:
+  Home:             /
+  Attending:        /attending/
+  Keynotes:         /keynotes/
+  Program:          /program/
+  Committees:       /committees/
+  Registration:     /registration/
+  Contact:          /contact/
+  Coc:              https://www.microservices.community/events/coc/
+
+# Exclude from build -----------------------------------------------------------
+exclude:
+- README.md
+- LICENSE
+- Gemfile
+- Gemfile.lock
+- Makefile
+- alembic-jekyll-theme.gemspec
+
+#------------------------------------------------------------------------------
+logo: "/assets/images/microservices.svg"
+url: "https://conf-micro.services/"
+avatarurl: "/assets/images/favicon.ico"
+
+encoding: utf-8
+
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jemoji
+
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      feature_image: "default-bg.png"
+      # image_source: "Microservice Community"

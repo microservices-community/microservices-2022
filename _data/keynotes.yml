@@ -1,0 +1,36 @@
+- speaker: Speaker Name 
+  picture: default.png
+  title:  Keynote Title
+  affiliation: Affiliation
+  date: Month Day, Year, Session
+  abstract: |
+    Abstrat
+  bio: |
+    Bio
+- speaker: Speaker Name 
+  picture: default.png
+  title:  Keynote Title
+  affiliation: Affiliation
+  date: Month Day, Year, Session
+  abstract: |
+    Abstrat
+  bio: |
+    Bio
+- speaker: Speaker Name 
+  picture: default.png
+  title:  Keynote Title
+  affiliation: Affiliation
+  date: Month Day, Year, Session
+  abstract: |
+    Abstrat
+  bio: |
+    Bio
+- speaker: Speaker Name 
+  picture: default.png
+  title:  Keynote Title
+  affiliation: Affiliation
+  date: Month Day, Year, Session
+  abstract: |
+    Abstrat
+  bio: |
+    Bio
