@@ -26,6 +26,7 @@ navigation_header:
   Coc:              https://www.microservices.community/events/coc/
 
 # Exclude from build -----------------------------------------------------------
+
 exclude:
 - README.md
 - LICENSE
