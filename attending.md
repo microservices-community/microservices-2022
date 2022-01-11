@@ -7,7 +7,7 @@ layout: page
 
 <ul class="nav nav-tabs nav-justified">
   <li role="presentation" class="active">
-    <a href="#venue">Venue: Dortmund</a></li>
+    <a href="#venue">Venue: Paris</a></li>
   <li role="presentation"><a href="#hotels">Hotels</a></li>
   <li role="presentation"><a href="#visas">Visas</a></li>
 </ul>
