@@ -51,7 +51,7 @@ Internet technologies: services, human interactions, data analytics and AI for I
  - Sustainable practices in the Microservices community
  - Education about Microservices technologies
 
-We solicit contributed talks based work in progress, scientific work published or submitted for publication, or practical experience reports. Authors wishing to present their work are invited to submit extended abstracts following the submission guidelines. Abstracts and presentations must be in English.
+We solicit contributed talks based on work in progress, scientific work published or submitted for publication, or practical experience reports. Authors wishing to present their work are invited to submit extended abstracts following the submission guidelines. Abstracts and presentations must be in English.
 
 
 Submissions Guidelines
