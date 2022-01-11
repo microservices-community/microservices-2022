@@ -6,6 +6,8 @@ excerpt: |
   The Microservices conference is a forum for the discussion of all aspects of designing and programming microservice architectures. Both theoretical and experimental contributions are welcome, on topics ranging from formal frameworks to experience reports.
 ---
 
+<div class="alert alert-info hidden-print" role="alert"><span class="glyphicon glyphicon-info-sign"></span> Due to the ongoing COVID-19 situation, Microservices 2022 will take place as a hybrid meeting. All the information regarding the conference (scheduling, platform, etc.) will be published on this website as soon as possible. </div>
+
 <ul class="nav nav-tabs nav-justified">
   <li role="presentation" class="active"><a href="#about">About</a></li>
   <li role="presentation" id="cfp_tab"><a href="#cfp">Call for Papers</a></li>
