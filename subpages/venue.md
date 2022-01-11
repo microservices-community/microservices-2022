@@ -1,7 +1,12 @@
+---
+API_KEY: AIzaSyAdWbm2DytayTodjiN4YEZfgdtpLIG-wj4
+query: MSH Paris Nord
+---
+
 
 <div class="row">
 <div class="text-center">
-  <!--iframe src="https://www.google.com/maps/embed?..." width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe-->
+  <iframe src="https://www.google.com/maps/embed/v1/place?key={{ page.API_KEY }}&q={{ page.query }}" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -11,4 +16,7 @@
 # Address
 
 <address>
+Maison des Sciences de l'Homme Paris Nord 
+20, avenue George Sand
+93210 La Plaine St-Denis
 </address>
