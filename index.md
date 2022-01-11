@@ -17,6 +17,9 @@ excerpt: |
 
   {% include_relative include_md.html file="subpages/about.md" %}
 
+  {% include_relative include_md.html file="subpages/keynote_speakers_tba.md" %}
+
+  {% include_relative include_md.html file="subpages/conference_theme.md" %}
 </div>
 
 <div role="tabpanel" class="tab-pane" id="cfp">
