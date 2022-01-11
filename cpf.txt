@@ -1,0 +1,124 @@
+International Conference on Microservices: Call for Papers
+==========================================================
+
+Fourth International Conference on Microservices
+
+May 10th-12th 2022, Paris, France
+
+https://www.conf-micro.services/2022/
+
+Important dates 
+---------------
+
+- Submission deadline: February 18th, 2022 (AoE)
+- Notification to authors: March 22nd, 2022 (AoE)
+- Camera-ready due: April 15th, 2022 (AoE)
+- Early bird registration until: April 8th, 2022 
+- Conference: May 10th-12th 2022
+
+Theme and Topics
+----------------
+
+The theme of this edition is aspects of microservices in the age of digital transformation.
+
+ - On the one hand, the adoption of microservices is fostering the adoption of new architectural patterns and software construction practices; understanding the security properties (or the emerging vulnerabilities) of the resulting constructs calls for the development of a fresh mindset in analysts, designers and testers alike. In addition, the additional middleware and infrastructure typically proposed for the management of microservice-based architectures could expand the attack surface of the systems.
+
+ - On the other hand, microservices are often adopted as an accelerator of digital transformations. Some of the opportunities in microservices involve the development of sustainable practices, the application of artificial intelligence and machine learning, and new architectures and technologies. In this light, addressing the complexity of digital transformation should be a primary concern for microservices researchers and practitioners, while improving/enhancing microservices principles, patterns, architectures, security, and technologies.
+
+We are interested in all aspects and phases of the design and implementation of microservice architectures:
+
+ - Software engineering methods for microservices, specifically (but not limited to) agile service design practices, behavior- and domain-driven design
+ - Formal models for microservices
+ - Programming languages, notations, and techniques for microservices
+ - Verification (both static and runtime) of microservice systems
+ - Testing for microservices: unit tests, system tests, acceptance and regression tests, test-driven service development
+ - DevOps for microservices, in particular (but not limited to) continuous deployment and distributed monitoring
+ - Microservice management: fault, configuration, accounting/cost, performance, security
+ - Discovery/recovery and reverse engineering of microservices solutions
+ - Microservice evolution
+ - Methodologies for identification, specification, and realization of candidate services
+ - Patterns for cloud-native application architectures; service API design and management
+ - Microservices infrastructure components: API gateways, side cars, and service meshes; reactive messaging brokers; service registries; service containers and cluster managers; infrastructure as code
+ - Function-as-a-service and serverless cloud offerings; service-based event sourcing and data streaming architectures
+ - Security and other service quality concerns (consistency, availability, recoverability) in microservices; dealing with General Data Protection Regulation (GDPR) compliance and other data privacy requirements
+Testing for microservices: unit tests, system tests, acceptance and regression tests, test-driven service development
+Internet technologies: services, human interactions, data analytics and AI for IoT, architecture things centric, sensor networks, security, privacy, applications
+ - AI and Microservices (including Datasets, Open-source technology)
+ - Cyber-physical Systems: AI/ML applications, security
+ - Industrial case studies and applications: Data Science/Big Data, Smart Industry, Healthcare, Government, Manufacturing, Logistics and Supply Chain Management
+ - Empirical studies of microservices adoption
+ - Case Studies and Surveys on the topic of Microservices
+ - Sustainable practices in the Microservices community
+ - Education about Microservices technologies
+
+We solicit contributed talks based work in progress, scientific work published or submitted for publication, or practical experience reports. Authors wishing to present their work are invited to submit extended abstracts following the submission guidelines. Abstracts and presentations must be in English.
+
+
+Submissions Guidelines
+----------------------
+
+A submission should describe a talk to be given at the conference in the form of extended abstracts with a maximum of two pages for talks from  industry and six pages for academic presentations (including references).
+
+Submissions can be based on work in progress, scientific work published or submitted for publication, practical experience reports, or practical tool demonstrations.
+
+Selected contributions will be invited to submit manuscripts based on their abstracts for conference post proceedings. 
+
+They must further be prepared using the EasyChair template (LaTeX, MS Word), be in PDF format, printable in black and white on A4 paper, and interpretable by common PDF tools. Submissions must be in English.
+
+Contributions will be reviewed and selected by the Program Committee. Extended abstracts of accepted contributions will be available electronically before the conference.
+
+
+Organisation
+------------
+
+General Chair: 
+Giulio Manzonetto, Université Sorbonne Paris Nord (FR)
+
+Program Chairs: 
+Gokila Dorai, Augusta University (US)
+Dimka Karastoyanova, University of Groningen (NL)
+Aomar Osmani, Université Sorbonne Paris Nord (FR)
+
+Industrial Liaison Chair:
+Claudio Guidi, italianaSoftware (IT)
+
+Publicity Chair:
+Pierre Boudes, Université Sorbonne Paris Nord (FR)
+
+Local Chairs:
+Damiano Mazza, Université Sorbonne Paris Nord (FR)
+
+Steering Committee
+-----------------
+Fabrizio Montesi, University of Southern Denmark
+Sabine Sachweh, Seelab, Dortmund
+
+Program Committee
+-----------------
+Mohamed Abouelsaoud, Cisco (CA)
+Vasilios Andrikopoulos, University of Groningen (NL)
+Jaime Arias, Université Sorbonne Paris Nord (FR)
+Ibrahim Baggili, University of New Haven (US)
+Salima Benbernou, Université de Paris (FR)
+Elisabetta Di Nitto, Politecnico di Milano (IT)
+Lyes Khoukhi, ENSICAEN (FR)
+Piyush Kumar, Florida State University (US)
+Patricia Lago, Vrije Universiteit Amsterdam (NL)
+Giuseppe Lipari, Université de Lille (FR)
+Anupama Pathirage, WSO2 (US)
+Pierluigi Plebani, Politecnico di Milano (IT)
+Dakshitha Ratnayake, WSO2 (US)
+Maria Seralessandri, European Central Bank (DE)
+Matteo Zanioli, Alpenite (IT)
+Asli Zengin, Imola Informatica (IT)
+
+Note about COVID-19
+-------------------
+
+Due to the ongoing COVID-19 situation, Microservices 2022 will take place as a hybrid meeting. All the information regarding the conference (scheduling, platform, etc.) will be posted on the conference website as soon as possible.
+
+
+Contact Information
+-------------------
+
+Please contact us if you have questions: https://www.conf-micro.services/2022/contact/ 
