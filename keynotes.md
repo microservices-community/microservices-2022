@@ -1,12 +1,14 @@
 ---
 title: Keynotes
 layout: page
-# feature_image: 
-# image_source: 
+indexing: false
+sitemap: false
+# feature_image:
+# image_source:
 ---
 
-
 {% for keynote in site.data.keynotes %}
+
 <div class="row col-md-12" markdown="1">
 
 <h3><a id="{{keynote.title|slugify}}"></a>{{ keynote.title }}</h3>
@@ -17,7 +19,7 @@ layout: page
 {% if keynote.link %}<br><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span> <a href="{{ keynote.link }}">Homepage</a>{% endif %}
 
 <div class="col-md-7">
-<h4>Abstract</h4> 
+<h4>Abstract</h4>
 
 <div style="margin-top:.5em; padding:1em;" class="bg-info text-justify" markdown="1">
 {{ keynote.abstract }}
