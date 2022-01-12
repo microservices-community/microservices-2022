@@ -1,6 +1,6 @@
-{% comment %} 
-{{ site.title }} does not hold an contingent of rooms at a particular hotel. 
-{%- endcomment -%} 
+{% comment %}
+{{ site.title }} does not hold an contingent of rooms at a particular hotel.
+{%- endcomment -%}
 To support you in planning your trip, here are a few accommodation possibilities in the city center. The hotels are in walking distance to the conference venue.
 
 <table class="table">
@@ -8,14 +8,24 @@ To support you in planning your trip, here are a few accommodation possibilities
 <tr>
 <th><strong>Hotel</strong></th>
 <th><strong>Walking distance</strong></th>
-<th><strong>Rooms from</strong></th>
+<th><strong>Booking</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td>Break & Home</td>
+<td>300 m</td>
+<td>https://www.breakandhome.com/condorcet/</td>
+</tr>
+<tr>
+<td>Hôtel ibis Styles Paris Saint-Denis Plaine</td>
+<td>1.2 km</td>
+<td>https://all.accor.com/hotel/8538/index.fr.shtml?dateIn=2022-05-10&nights=2&compositions=1&stayplus=false</td>
+</tr>
+<tr>
+<td>Greet Hotel Paris Nord 18</td>
+<td>1.2 km</td>
+<td>https://all.accor.com/ssr/app/accor/rates/5091/index.fr.shtml?dateIn=2022-05-10&nights=2&compositions=1&stayplus=false</td>
 </tr>
 </tbody>
 </table>
