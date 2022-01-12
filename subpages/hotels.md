@@ -15,22 +15,22 @@ To support you in planning your trip, here are a few accommodation possibilities
 <tr>
 <td>Break & Home</td>
 <td>300 m</td>
-<td>https://www.breakandhome.com/condorcet/</td>
+<td>[Check availability](https://www.breakandhome.com/condorcet/)</td>
 </tr>
 <tr>
 <td>Hôtel ibis Styles Paris Saint-Denis Plaine</td>
 <td>1.2 km</td>
-<td>https://all.accor.com/hotel/8538/index.fr.shtml?dateIn=2022-05-10&nights=2&compositions=1&stayplus=false</td>
+<td>[Check availability](https://all.accor.com/hotel/8538/index.fr.shtml?dateIn=2022-05-10&nights=2&compositions=1&stayplus=false)</td>
 </tr>
 <tr>
 <td>Greet Hotel Paris Nord 18</td>
 <td>1.2 km</td>
-<td>https://all.accor.com/ssr/app/accor/rates/5091/index.fr.shtml?dateIn=2022-05-10&nights=2&compositions=1&stayplus=false</td>
+<td>[Check availability](https://all.accor.com/ssr/app/accor/rates/5091/index.fr.shtml?dateIn=2022-05-10&nights=2&compositions=1&stayplus=false)</td>
 </tr>
 </tbody>
 </table>
 
-You will often get <strong>better rates</strong> on [Booking.com](https://www.booking.com), [Expedia.de](https://www.expedia.de) or similar sites, especially by booking flight and accommodation together.
+You will often get <strong>better rates</strong> on [Booking.com](https://www.booking.com), [Tripadvisor](https://www.tripadvisor.fr) or similar sites, especially by booking flight and accommodation together.
 
 **ConferenceShare service**
 
