@@ -41,7 +41,7 @@ Abstracts and presentations must be in English.
 Depending on the success of this initiative, we are considering the publication of a volume of post-proceedings, for which there will be a separate call for papers.
 In this way, the interested authors will have a chance to enrich their contributions according to the feedback they received during the event.
 
-Please contact the [chairs](./committees) if you have questions.
+Please contact the [chairs](./committees/) if you have questions.
 
 <div class="alert alert-info hidden-print" role="alert">
 <span class="glyphicon glyphicon-info-sign"></span> The call is also available as a text file <a href="{{ "/cfp.txt" | relative_url }}">here</a>.
