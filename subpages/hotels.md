@@ -15,17 +15,17 @@ To support you in planning your trip, here are a few accommodation possibilities
 <tr>
 <td>Break & Home</td>
 <td>300 m</td>
-<td>[Check availability](https://www.breakandhome.com/condorcet/)</td>
+<td><a href="https://www.breakandhome.com/condorcet/" target="_blank">Check availability</a></td>
 </tr>
 <tr>
 <td>Hôtel ibis Styles Paris Saint-Denis Plaine</td>
 <td>1.2 km</td>
-<td>[Check availability](https://all.accor.com/hotel/8538/index.fr.shtml?dateIn=2022-05-10&nights=2&compositions=1&stayplus=false)</td>
+<td><a href="https://all.accor.com/hotel/8538/index.fr.shtml?dateIn=2022-05-10&nights=2&compositions=1&stayplus=false" target="_blank">Check availability</a></td>
 </tr>
 <tr>
 <td>Greet Hotel Paris Nord 18</td>
 <td>1.2 km</td>
-<td>[Check availability](https://all.accor.com/ssr/app/accor/rates/5091/index.fr.shtml?dateIn=2022-05-10&nights=2&compositions=1&stayplus=false)</td>
+<td><a href="https://all.accor.com/ssr/app/accor/rates/5091/index.fr.shtml?dateIn=2022-05-10&nights=2&compositions=1&stayplus=false" target="_blank">Check availability</a></td>
 </tr>
 </tbody>
 </table>
