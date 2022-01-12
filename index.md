@@ -1,6 +1,6 @@
 ---
 layout: home
-feature_image: "default-bg.png"
+feature_image: "paris-bg.jpg"
 # image_source: "Microservices Community"
 excerpt: |
   The Microservices conference is a forum for the discussion of all aspects of designing and programming microservice architectures. Both theoretical and experimental contributions are welcome, on topics ranging from formal frameworks to experience reports.
@@ -17,16 +17,17 @@ excerpt: |
 <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="about">
 
-  {% include_relative include_md.html file="subpages/about.md" %}
+{% include_relative include_md.html file="subpages/about.md" %}
 
-  {% include_relative include_md.html file="subpages/keynote_speakers_tba.md" %}
+{% include_relative include_md.html file="subpages/keynote_speakers_tba.md" %}
 
-  {% include_relative include_md.html file="subpages/conference_theme.md" %}
+{% include_relative include_md.html file="subpages/conference_theme.md" %}
+
 </div>
 
 <div role="tabpanel" class="tab-pane" id="cfp">
 
-  {% include_relative include_md.html file="subpages/call_for_papers.md" %}
+{% include_relative include_md.html file="subpages/call_for_papers.md" %}
 
 </div>
 

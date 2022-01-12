@@ -1,8 +1,6 @@
 ---
 title: Keynotes
 layout: page
-indexing: false
-sitemap: false
 # feature_image:
 # image_source:
 ---
