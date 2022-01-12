@@ -17,13 +17,13 @@ Maison des Sciences de l'Homme Paris Nord
 
 # Directions
 
-BY PUBLIC TRANSPORT
+## By Public Transport
 
 - Metro 12 (Front Populaire)
 - RER B (La Plaine - Stade de France)
 - Bus: 139, 153, 239, 302, 512
 
-WALKING
+## Walking
 
 - 3 minutes walking from metro station Front Populaire
 - 6 minutes walking from cours des Humanités
