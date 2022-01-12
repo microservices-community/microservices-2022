@@ -14,3 +14,17 @@ Maison des Sciences de l'Homme Paris Nord
 20, avenue George Sand
 93210 La Plaine St-Denis
 </address>
+
+** DIRECTIONS **
+
+BY PUBLIC TRANSPORT
+
+- Metro 12 (Front Populaire)
+- RER B (La Plaine ? Stade de France)
+- Bus: 139, 153, 239, 302, 512
+
+WALKING
+
+- 3 minutes walking from metro station Front Populaire
+- 6 minutes walking from cours des HumanitÈs
+- 16 minutes walking from RER B ? La Plaine ? Stade de France
