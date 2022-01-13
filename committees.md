@@ -1,8 +1,8 @@
 ---
 title: Committees
 layout: page
-# feature_image: 
-# image_source: 
+# feature_image:
+# image_source:
 ---
 
 <div class="container"></div>
@@ -12,6 +12,7 @@ layout: page
 <style> td{min-width:12em} td+td{padding-left:10px;}</style>
 
 ### General Chair
+
 <table>
   <tbody>
     <tr><td>Giulio Manzonetto</td><td>University Sorbonne Paris Nord (FR)</td></tr>
@@ -51,6 +52,7 @@ layout: page
         <tr><td>Jaime Arias</td><td>University Sorbonne Paris Nord (FR)</td></tr>
         <tr><td>Ibrahim Baggili</td><td>University of New Haven (US)</td></tr>
         <tr><td>Salima Benbernou</td><td>University of Paris (FR)</td></tr>
+        <tr><td>Matteo Bordin</td><td>Profesia (IT)</td></tr>
         <tr><td>Elisabetta Di Nitto</td><td>Politecnico di Milano (IT)</td></tr>
         <tr><td>Lyes Khoukhi</td><td>ENSICAEN (FR)</td></tr>
         <tr><td>Piyush Kumar</td><td>Florida State University (US)</td></tr>
