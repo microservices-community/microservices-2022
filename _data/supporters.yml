@@ -1,14 +1,17 @@
 - type: Sponsor
-  tier: gold
   name: Université Sorbonne Paris Nord
   link: https://www.univ-paris13.fr/
   logo: USPN.jpg
+- type: Sponsor
+  name: IUT de Villetaneuse
+  link: https://iutv.univ-paris13.fr/
+  logo: iut-villetaneuse.png
 # - type: Sponsor
 #   tier: silver
 #   name: Sponsor Name
-#   link: 
+#   link:
 #   logo: placeholder.jpg
 # - type: Supporter
 #   name: Supporter Name
-#   link: 
+#   link:
 #   logo: placeholder.jpg
