@@ -41,7 +41,7 @@ layout: page
 ### Local Chairs
 <table>
   <tbody>
-        <tr><td>Damiano Mazza</td><td>University Sorbonne Paris Nord (FR)</td></tr>
+        <tr><td>Damiano Mazza</td><td>CNRS, University Sorbonne Paris Nord (FR)</td></tr>
   </tbody>
 </table>
 ### Program Committee
