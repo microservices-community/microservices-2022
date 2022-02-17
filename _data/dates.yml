@@ -2,37 +2,41 @@
   id: submission
   expired: false
   entries:
+    - date: 2022-03-04
+      zone:
+        tzid: Etc/GMT-12
+        label: AoE (UTC-12)
     - date: 2022-02-18
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
     # - date: XX-XX-XX      SUBSEQUENT DATES CROSS OUT PREVIOUS ONES
-      # zone:
-      #   tzid: Etc/GMT-12
-      #   label: AoE (UTC-12)
+    # zone:
+    #   tzid: Etc/GMT-12
+    #   label: AoE (UTC-12)
 - summary: Author Notification
   id: notification
   expired: false
-  entries: 
+  entries:
     - date: 2022-03-22
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
-  
+
 - summary: Camera-ready
   id: camera-ready
   expired: false
-  entries: 
+  entries:
     - date: 2022-04-15
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
-  
+
 - summary: Registration
   hide_from: ics
   id: registration
   expired: false
-  entries: 
+  entries:
     - from: 2022-03-01
       to: 2022-05-12
       zone:
@@ -41,8 +45,8 @@
 
 - summary: Early bird registration
   id: early-bird
-  expired: false 
-  entries: 
+  expired: false
+  entries:
     - date: 2022-04-08
       zone:
         tzid: Etc/GMT-12
@@ -52,7 +56,7 @@
 #   hide_from: website
 #   id: registration_opens
 #   expired: false
-#   entries: 
+#   entries:
 #     - date: XXXX-XX-XX
 #       zone:
 #         tzid: Europe/Berlin
@@ -62,15 +66,15 @@
 #   hide_from: website
 #   id: registration_closes
 #   expired: false
-#   entries: 
+#   entries:
 #     - date: XXXX-XX-XX
 #       zone:
 #         tzid: Europe/Berlin
 #         label: CET (UTC+1)
 
-- summary: 
+- summary:
     website: Conference
-    calendar: Microservices 2022 
+    calendar: Microservices 2022
   id: conference
   expired: false
   entries:
