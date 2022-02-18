@@ -5,7 +5,7 @@
 A submission should describe a talk to be given at the conference in the form of extended abstracts with a maximum of **two pages for talks from industry** and **six pages for academic presentations (including references)**. Submissions can be based on work in progress, scientific work published or submitted for publication, practical experience reports, or practical tool demonstrations.
 They must further be prepared using the **EasyChair template** ([LaTeX](https://www.easychair.org/publications/easychair.zip), [MS Word](https://www.easychair.org/publications/easychair.docx)), be in PDF format, printable in black and white on A4 paper, and interpretable by common PDF tools. Submissions must be in English.
 
-Contributions may be submitted via EasyChair by clicking the button below. The submission deadline is **February 18th, 2022** <acronym title="Anywhere on earth">AoE</acronym>. Resubmissions are allowed until the submission deadline.
+Contributions may be submitted via EasyChair by clicking the button below. The submission deadline is **March 04, 2022** <acronym title="Anywhere on earth">AoE</acronym>. Resubmissions are allowed until the submission deadline.
 
 Contributions will be reviewed and selected by the [Program Committee](committees/). Extended abstracts of accepted contributions will be available electronically before the conference. Selected contributions will be invited to submit manuscripts based on their abstracts for conference post proceedings.
 
