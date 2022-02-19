@@ -13,7 +13,7 @@ Important dates (EXTENDED)
 - Submission deadline : March 4th, 2022 (AoE) (extended)
 - Notification to authors: March 22nd, 2022 (AoE)
 - Camera-ready due: April 15th, 2022 (AoE)
-- Early bird registration until: April 8th, 2022 
+- Early bird registration until: April 8th, 2022
 - Conference: May 10th-12th 2022
 
 Theme and Topics
@@ -71,10 +71,10 @@ Contributions will be reviewed and selected by the Program Committee. Extended a
 Organisation
 ------------
 
-General Chair: 
+General Chair:
 Giulio Manzonetto, Université Sorbonne Paris Nord (FR)
 
-Program Chairs: 
+Program Chairs:
 Gokila Dorai, Augusta University (US)
 Dimka Karastoyanova, University of Groningen (NL)
 Aomar Osmani, Université Sorbonne Paris Nord (FR)
@@ -84,6 +84,7 @@ Claudio Guidi, italianaSoftware (IT)
 
 Publicity Chair:
 Pierre Boudes, Université Sorbonne Paris Nord (FR)
+Florian Rademacher, University of Applied Sciences and Arts Dortmund (DE)
 
 Local Chairs:
 Damiano Mazza, CNRS, University Sorbonne Paris Nord (FR)
@@ -122,4 +123,4 @@ Due to the ongoing COVID-19 situation, Microservices 2022 will take place as a h
 Contact Information
 -------------------
 
-Please contact us if you have questions: https://www.conf-micro.services/2022/contact/ 
+Please contact us if you have questions: https://www.conf-micro.services/2022/contact/

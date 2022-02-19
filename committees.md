@@ -36,6 +36,7 @@ layout: page
 <table>
   <tbody>
         <tr><td>Pierre Boudes</td><td>University Sorbonne Paris Nord (FR)</td></tr>
+        <tr><td>Florian Rademacher</td><td>University of Applied Sciences and Arts Dortmund (DE)</td></tr>
   </tbody>
 </table>
 ### Local Chairs
@@ -59,11 +60,17 @@ layout: page
         <tr><td>Patricia Lago</td><td>Vrije Universiteit Amsterdam (NL)</td></tr>
         <tr><td>Giuseppe Lipari</td><td>University of Lille (FR)</td></tr>
         <tr><td>Anupama Pathirage</td><td>WSO2 (US)</td></tr>
-        <tr><td>Pierluigi Plebani</td><td>Politecnico di Milano (IT)</td></tr>        
+        <tr><td>Pierluigi Plebani</td><td>Politecnico di Milano (IT)</td></tr>
         <tr><td>Dakshitha Ratnayake</td><td>WSO2 (US)</td></tr>
         <tr><td>Maria Seralessandri</td><td>European Central Bank (DE)</td></tr>
         <tr><td>Matteo Zanioli</td><td>Alpenite (IT)</td></tr>
         <tr><td>Asli Zengin</td><td>Imola Informatica (IT)</td></tr>
+  </tbody>
+</table>
+### Website Administrator
+<table>
+  <tbody>
+        <tr><td>Jaime Arias</td><td>University Sorbonne Paris Nord (FR)</td></tr>
   </tbody>
 </table>
 {% comment %}
