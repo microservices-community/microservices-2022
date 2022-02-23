@@ -21,15 +21,35 @@
   abstract: |
     TBA
 
-# - speaker: Speaker Name
-#   picture: default.png
-#   title:  Keynote Title
-#   affiliation: Affiliation
-#   date: Month Day, Year, Session
-#   abstract: |
-#     Abstrat
-#   bio: |
-#     Bio
+ - speaker: Valentina Lenarduzzi
+   picture: valentina-lenarduzzi.jpg
+   title:  Technical Debt and Microservices
+   affiliation: University of Oulu, Finland
+   abstract: |
+   The Microservice paradigm is being adopted more and more in industry to support 
+   the agility of empowered development teams. However, developing or migrating to 
+   microservices is no easy task. The risk of failure is to incur in a large 
+   Architectural Technical Debt and, consequently, in costly consequences for the 
+   organizations. Agile software development and Continuous Architecting might 
+   help to  mitigate the negative impact of such Architectural Debt by monitoring 
+   its accumulation in a Microservice architecture.
+   bio: |
+     Dr. Valentina Lenarduzzi is an assistant professor (tenure track) at 
+     University of Oulu (Finland) and docent at LUT University, Finland. Her research 
+     activities are related to modern software development practices and methodologies, 
+     including data analysis in software engineering, software quality, software 
+     maintenance and evolution, focusing on Technical Debt as well as code and architectural 
+     smells. She got the Ph.D. in Computer Science in 2015 and was a postdoctoral researcher 
+     at the Free University of Bozen-Bolzano, (Italy), at the Tampere University (Finland), 
+     and at LUT University (Finland). Moreover, she was visiting researcher at the University 
+     of Kaiserslautern (TUK) and the Fraunhofer Institute for Experimental Software Engineering 
+     IESE (Germany). She served as a program committee member of various international conferences 
+     (e.g., ICPC, ICSME, ESEM), and for various international journals (e.g., TSE, EMSE, JSS, IST) 
+     in the field of software engineering. She has been program co-chair of OSS 2021 and TechDebt 2022. 
+     She was also one of the organizer of the last edition of MaLTeSQuE workshop (2022) collocated with ESEC/FSE. 
+     Dr. Lenarduzzi is recognized by the Journal of Systems and Software (JSS) as one of the most active SE 
+     researcher in top-quality journals in the period 2013 to 2020. 
+
 # - speaker: Speaker Name
 #   picture: default.png
 #   title:  Keynote Title
