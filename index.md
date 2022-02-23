@@ -19,7 +19,7 @@ excerpt: |
 
 {% include_relative include_md.html file="subpages/about.md" %}
 
-{% include_relative include_md.html file="subpages/keynote_speakers_tba.md" %}
+{% include_relative include_md.html file="subpages/keynote_speakers.md" %}
 
 {% include_relative include_md.html file="subpages/conference_theme.md" %}
 

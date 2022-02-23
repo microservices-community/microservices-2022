@@ -1,36 +1,50 @@
-- speaker: Speaker Name 
-  picture: default.png
-  title:  Keynote Title
-  affiliation: Affiliation
-  date: Month Day, Year, Session
-  abstract: |
-    Abstrat
+- speaker: Fabio Casati
+  picture: fabio-casati.jpeg
+  affiliation: Servicenow, Santa Clara, CA, USA
   bio: |
-    Bio
-- speaker: Speaker Name 
-  picture: default.png
-  title:  Keynote Title
-  affiliation: Affiliation
-  date: Month Day, Year, Session
+    Fabio Casati is a Principal Machine Learning Architect and
+    Engineer at Servicenow.<br>
+
+    Fabio focuses on designing, architecting and deploying AI-powered
+    workflows for enterprise customers. On the research side, he is
+    working on AI applied to workflows and on quality in AI. Previously he
+    was Professor at the University of Trento. In that role, he started
+    research lines on crowdsourcing and hybrid human-machine computations,
+    focusing on applications that have direct positive impact on society
+    through tangible artefacts adopted by the community. Prior to that, he
+    was technical lead for the research program on business process
+    intelligence in Hewlett-Packard USA, where he contributed to several
+    HP commercial products in the area of web services and business
+    process management. He co-authored a best-selling book on Web services
+    and is author of over 250 peer-reviewed papers.
+  title: Crossing the Chasm Between AI Services and AI-powered Workflows
   abstract: |
-    Abstrat
-  bio: |
-    Bio
-- speaker: Speaker Name 
-  picture: default.png
-  title:  Keynote Title
-  affiliation: Affiliation
-  date: Month Day, Year, Session
-  abstract: |
-    Abstrat
-  bio: |
-    Bio
-- speaker: Speaker Name 
-  picture: default.png
-  title:  Keynote Title
-  affiliation: Affiliation
-  date: Month Day, Year, Session
-  abstract: |
-    Abstrat
-  bio: |
-    Bio
+    TBA
+
+# - speaker: Speaker Name
+#   picture: default.png
+#   title:  Keynote Title
+#   affiliation: Affiliation
+#   date: Month Day, Year, Session
+#   abstract: |
+#     Abstrat
+#   bio: |
+#     Bio
+# - speaker: Speaker Name
+#   picture: default.png
+#   title:  Keynote Title
+#   affiliation: Affiliation
+#   date: Month Day, Year, Session
+#   abstract: |
+#     Abstrat
+#   bio: |
+#     Bio
+# - speaker: Speaker Name
+#   picture: default.png
+#   title:  Keynote Title
+#   affiliation: Affiliation
+#   date: Month Day, Year, Session
+#   abstract: |
+#     Abstrat
+#   bio: |
+#     Bio
