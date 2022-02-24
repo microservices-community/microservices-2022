@@ -37,8 +37,8 @@
   id: registration
   expired: false
   entries:
-    - from: 2022-03-01
-      to: 2022-05-12
+    - from: 2022-03-07
+      to: 2022-04-25
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
