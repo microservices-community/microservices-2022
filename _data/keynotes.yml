@@ -23,16 +23,16 @@
 
  - speaker: Valentina Lenarduzzi
    picture: valentina-lenarduzzi.jpg
-   title:  Technical Debt and Microservices
+   title: Technical Debt and Microservices
    affiliation: University of Oulu, Finland
    abstract: |
-   The Microservice paradigm is being adopted more and more in industry to support 
-   the agility of empowered development teams. However, developing or migrating to 
-   microservices is no easy task. The risk of failure is to incur in a large 
-   Architectural Technical Debt and, consequently, in costly consequences for the 
-   organizations. Agile software development and Continuous Architecting might 
-   help to  mitigate the negative impact of such Architectural Debt by monitoring 
-   its accumulation in a Microservice architecture.
+     The Microservice paradigm is being adopted more and more in industry to support 
+     the agility of empowered development teams. However, developing or migrating to 
+     microservices is no easy task. The risk of failure is to incur in a large 
+     Architectural Technical Debt and, consequently, in costly consequences for the 
+     organizations. Agile software development and Continuous Architecting might 
+     help to  mitigate the negative impact of such Architectural Debt by monitoring 
+     its accumulation in a Microservice architecture.
    bio: |
      Dr. Valentina Lenarduzzi is an assistant professor (tenure track) at 
      University of Oulu (Finland) and docent at LUT University, Finland. Her research 
