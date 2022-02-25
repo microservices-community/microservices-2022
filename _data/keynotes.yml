@@ -29,6 +29,25 @@
   title: Crossing the Chasm Between AI Services and AI-powered Workflows
   abstract: |
     TBA
+    
+- speaker: Cesare Pautasso
+  picture: cesare-pautasso.jpg
+  affiliation: USI Lugano, Switzerland
+  bio: |
+    Cesare Pautasso is full professor at the Software Institute at USI 
+    Lugano, Switzerland.<br>
+
+    His research group focuses on building experimental systems to explore 
+    the intersection of RESTful conversations, API analytics and liquid 
+    software architectures. He is the general chair for EuroPLoP 2022. 
+    He was the program co-chair for ICWE 2021, ICSOC 2013, ECOWS 2010 and 
+    Software Composition 2008 and the ICWE 2016, ECOWS 2011 general chair. 
+    He is the co-editor of the IEEE Software Insights department. 
+    His e-books on Email Anti-Patterns, Software Architecture, Business 
+    Process Management, and API visualization are available on LeanPub. 
+  title: TBA
+  abstract: |
+    TBA
 
 # - speaker: Speaker Name
 #   picture: default.png
