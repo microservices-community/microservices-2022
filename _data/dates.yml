@@ -1,6 +1,6 @@
 - summary: Abstract Submission Deadline
   id: submission
-  expired: false
+  expired: true
   entries:
     - date: 2022-03-04
       zone:
