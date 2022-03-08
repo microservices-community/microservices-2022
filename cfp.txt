@@ -98,7 +98,7 @@ Program Committee
 -----------------
 Mohamed Abouelsaoud, Cisco (CA)
 Vasilios Andrikopoulos, University of Groningen (NL)
-Jaime Arias, Université Sorbonne Paris Nord (FR)
+Jaime Arias, CNRS, Université Sorbonne Paris Nord (FR)
 Ibrahim Baggili, University of New Haven (US)
 Salima Benbernou, Université de Paris (FR)
 Matteo Bordin, Profesia (IT)

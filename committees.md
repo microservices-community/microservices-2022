@@ -50,7 +50,7 @@ layout: page
   <tbody>
         <tr><td>Mohamed Abouelsaoud</td><td>Cisco (CA)</td></tr>
         <tr><td>Vasilios Andrikopoulos</td><td>University of Groningen (NL)</td></tr>
-        <tr><td>Jaime Arias</td><td>University Sorbonne Paris Nord (FR)</td></tr>
+        <tr><td>Jaime Arias</td><td>CNRS, University Sorbonne Paris Nord (FR)</td></tr>
         <tr><td>Ibrahim Baggili</td><td>University of New Haven (US)</td></tr>
         <tr><td>Salima Benbernou</td><td>University of Paris (FR)</td></tr>
         <tr><td>Matteo Bordin</td><td>Profesia (IT)</td></tr>
