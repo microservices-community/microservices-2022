@@ -28,7 +28,27 @@
     and is author of over 250 peer-reviewed papers.
   title: Crossing the Chasm Between AI Services and AI-powered Workflows
   abstract: |
-    TBA
+    Companies are devoting significant effort -and budget- into powering 
+    their processes with AI. Despite the strong push by both AI customers 
+    (the enterprise) and providers of AI services and technology, 
+    the journey to AI is often not simple -or not as simple as expected at 
+    first- and the benefits are hard to assess. This is surprising to many, 
+    given the amazing success that AI seems to have on all sorts of domains, 
+    where super-human performance is reported in many tasks seemingly related 
+    to what AI is asked to do in the enterprise.
+    In this talk I will present some of the reasons for the disconnect between 
+    the (perceived) quality of AI services on one side, and the transformational 
+    impact they can have on AI-powered enterprise processes on the other. 
+    I will focus specifically on two key problems that limit adoption of AI 
+    services today. The first is that the way we measure and communicate the quality 
+    of AI services is fundamentally wrong, and this leads to wrong process design 
+    decisions and to an improper use of AI in business processes. 
+    The second is that AI service and technology providers often focus on the benefits 
+    of AI services once in production, but underestimate the importance of simplifying 
+    the journey that process owners have to follow to get there. 
+    I will present concrete examples of both issues, and show (i) how we can rethink 
+    the notion of AI quality in enterprise processes and (ii) how AI can simplify 
+    its own journey to adoption, thereby helping AI services to cross the adoption chasm.
 
 - speaker: Cesare Pautasso
   picture: cesare-pautasso.jpg
@@ -45,9 +65,15 @@
     He is the co-editor of the IEEE Software Insights department.
     His e-books on Email Anti-Patterns, Software Architecture, Business
     Process Management, and API visualization are available on LeanPub.
-  title: TBA
+  title: The Microservice Hypothesis
   abstract: |
-    TBA
+    Microservice architectures are based on the hypothesis that by keeping 
+    components small, this can foster their autonomy and independent evolution. 
+    Microservices reframed the modularity issue as a decomposition problem, 
+    where APIs are introduced to reconnect separately deployed components. 
+    In this talk we will explore a large collection of real-world APIs looking 
+    for patterns attempting to illustrate the relationship between size and 
+    coupling, both in space and time.
 
 # - speaker: Speaker Name
 #   picture: default.png
