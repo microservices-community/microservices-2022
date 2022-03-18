@@ -70,7 +70,7 @@ layout: page
 ### Website Administrator
 <table>
   <tbody>
-        <tr><td>Jaime Arias</td><td>University Sorbonne Paris Nord (FR)</td></tr>
+        <tr><td>Jaime Arias</td><td>CNRS, University Sorbonne Paris Nord (FR)</td></tr>
   </tbody>
 </table>
 {% comment %}
