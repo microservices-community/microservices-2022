@@ -17,8 +17,9 @@ community_badge:
 # Site navigation -------------------------------------------------------------
 navigation_header:
   Home: /
+  Accepted: /accepted/
   Attending: /attending/
-  Keynotes:  /keynotes/
+  Keynotes: /keynotes/
   #  Program:          /program/
   Committees: /committees/
   Registration: /registration/
