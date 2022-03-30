@@ -17,10 +17,10 @@ community_badge:
 # Site navigation -------------------------------------------------------------
 navigation_header:
   Home: /
-  Accepted: /accepted/
+#  Accepted: /accepted/
+  Program:  /program/
   Attending: /attending/
   Keynotes: /keynotes/
-  #  Program:          /program/
   Committees: /committees/
   Registration: /registration/
   Contact: /contact/
