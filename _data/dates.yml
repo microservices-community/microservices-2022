@@ -23,6 +23,16 @@
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
 
+
+- summary: Early bird registration
+  id: early-bird
+  expired: false
+  entries:
+    - date: 2022-04-11
+      zone:
+        tzid: Etc/GMT-12
+        label: AoE (UTC-12)
+
 - summary: Camera-ready
   id: camera-ready
   expired: false
@@ -39,15 +49,6 @@
   entries:
     - from: 2022-03-07
       to: 2022-04-25
-      zone:
-        tzid: Etc/GMT-12
-        label: AoE (UTC-12)
-
-- summary: Early bird registration
-  id: early-bird
-  expired: false
-  entries:
-    - date: 2022-04-08
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
