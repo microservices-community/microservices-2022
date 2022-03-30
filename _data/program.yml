@@ -174,4 +174,5 @@
       from: "19:30"
       to: "22:00"
 #      non-session: true
-      location:TBA
+      location: Paris (TBA)
+#We may need to change something else than _config.yml to trigger a rebuild?
