@@ -10,8 +10,8 @@ layout: page
 
 ## Dates
 
-- **Early registration deadline:** Fri 08 Apr 2022
-- **Late registration deadline:** Mon 25 Apr 2022
+- **Early registration deadline:** Mon 11 Apr 2022 (AoE)
+- **Late registration deadline:** Mon 25 Apr 2022 (AoE)
 
 ## Participant Registration
 
