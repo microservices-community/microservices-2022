@@ -10,11 +10,11 @@
   name: CNRS
   link: https://www.cnrs.fr/
   logo: cnrs.png
- - type: Sponsor
-   tier: silver
-   name: Huawei
-   link: https://blogs.ed.ac.uk/he-lab/
-   logo: Huawei.jpg
+- type: Sponsor
+  tier: silver
+  name: Huawei
+  link: https://blogs.ed.ac.uk/he-lab/
+  logo: Huawei.jpg
 # - type: Supporter
 #   name: Supporter Name
 #   link:
