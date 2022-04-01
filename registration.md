@@ -28,7 +28,17 @@ during the registration process (one ticket per person).
 
 ## Registration Process
 
-Before registering to the conference, it is required to
+<div markdown="1" class="text-justify">
+<p style="margin:2em;" class="text-center">
+    <a href="https://www.azur-colloque.fr/DR01/inscription" target="_blank">
+        <button style="padding:1em;" type="button" class="btn btn-primary btn-lg">Register Now</button>
+    </a>
+</p>
+<div class="clearfix"></div>
+
+The Microservices conference will host the General Assembly of the Microservices Community, where the future directions of the community are discussed. The assembly is open to all community members.
+
+If you are interested in joining the community, follow this link:
 
 <p style="margin:2em;" class="text-center">
     <a href="https://microservices.sdu.dk/join/" target="_blank">
@@ -37,18 +47,6 @@ Before registering to the conference, it is required to
 </p>
 
 Students may join the community for free during the period of the registration.
-Students registering and paying "Student Rates" must submit an
-official letter (in English) from their University or School, duly
-signed and stamped, indicating their current student status.
-This document must be sent to <microservices22@sciencesconf.org>.
-
-<div markdown="1" class="text-justify">
-<p style="margin:2em;" class="text-center">
-    <a href="https://www.azur-colloque.fr/DR01/inscription" target="_blank">
-        <button style="padding:1em;" type="button" class="btn btn-primary btn-lg">Register Now</button>
-    </a>
-</p>
-<div class="clearfix"></div>
 
 ## Registration fees
 
@@ -82,6 +80,12 @@ This document must be sent to <microservices22@sciencesconf.org>.
 
 </tbody>
 </table>
+
+Students registering and paying "Student Rates" must submit an
+official letter (in English) from their University or School, duly
+signed and stamped, indicating their current student status.
+This document must be sent to <microservices22@sciencesconf.org>.
+
 
 <!-- <div markdown="1" class="text-justify">
 <p style="margin:2em;" class="text-center">
