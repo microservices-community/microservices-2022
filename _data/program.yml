@@ -122,6 +122,11 @@
       to: "17:00"
       #      non-session: true
       location: Amphithéâtre
+    - title: Social Diner
+      from: "19:30"
+      to: "22:00"
+      #      non-session: true
+      location: Paris (TBA)      
 - day: May 12th
   color: "#aeffbf"
   theme: Migration to Microservices
@@ -170,9 +175,4 @@
       to: "17:00"
       #      non-session: true
       location: Amphithéâtre
-    - title: Social Diner
-      from: "19:30"
-      to: "22:00"
-      #      non-session: true
-      location: Paris (TBA)
 #We may need to change something else than _config.yml to trigger a rebuild?
