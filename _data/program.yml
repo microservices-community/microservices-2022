@@ -11,7 +11,7 @@
       from: "9:00"
       to: "9:30"
       authors:
-        - name: Giulio Manzonetto
+        - name: Fabrizio Montesi
           title: Speakers
       description: |
         Opening speech to welcome all the attendees and
@@ -30,7 +30,7 @@
       from: "10:30"
       to: "11:00"
       non-session: true
-      location: <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Salle panoramique</a>
+      location: Salle panoramique
     - title: Autonomic Microservices
       #      chairs:
       #        - Chair Name
@@ -59,7 +59,7 @@
       from: "15:00"
       to: "15:30"
       non-session: true
-      location: <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Salle panoramique</a>
+      location: Salle panoramique
     - title: SW Engineering Approaches
       #      chairs:
       #        - Chair Name
@@ -138,7 +138,7 @@
         - name: Cesare Pautasso
           title: The Microservice Hypothesis
       description: |
-        <a href="https://www.conf-micro.services/2022/keynotes/the-microservice-hypothesis">Abstract of the keynote</a>
+        <a href="https://www.conf-micro.services/2022/keynotes/#the-microservice-hypothesis">Abstract of the keynote</a>
       location: Amphithéâtre
     - title: Coffee Break
       from: "10:30"
@@ -175,4 +175,5 @@
       to: "17:00"
       #      non-session: true
       location: Amphithéâtre
-#We may need to change something else than _config.yml to trigger a rebuild?
+
+See the list of <a href="https://www.conf-micro.services/2022/keynotes/">invited keynotes</a> and of <a href="https://www.conf-micro.services/2022/accepted/">talks</a> contributed by the community.
