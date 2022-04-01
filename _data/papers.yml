@@ -15,7 +15,6 @@
     able to scale the whole architecture w.r.t. an expected amount of traffic. Among its benefits, global 
     scaling helps to prevent “domino” effects (cascading slowdowns) due to the unstructured scaling actions 
     of microservice-level scaling.
-    
     The current notion of global scaling assumes a reactive behaviour w.r.t. traffic fluctuations, where the 
     latter trigger the application of the related scaling plans. Here, we challenge this reactive interpretation, 
     and we propose a proactive extension of global scaling able to increase the efficiency of global scaling, 
@@ -29,16 +28,31 @@
   title: Grey Areas of Digital Forensic Tools and a Framework to Solve the IoT Data Forensic Analysis Problems
 #  paper: empty_paper.pdf
 #  slides: empty_slides.pdf
-#  abstract: |
-#    Lorem ipsum
+  abstract: |
+    The constant and rapid evolution of technology has led to some amazing achievements. 
+    Normal people can communicate with others across the globe, relatively cheap Internet of Things (IoT) devices can be 
+    used to secure homes, track fitness and health, control appliances, etc., many people have access to a seemingly 
+    endless wealth of information in small devices in their pockets, organizations can provide high availability for 
+    important services by spinning up/down servers in minutes to scale with demand through cloud services, etc. 
+    However, not everyone who uses these technologies does so with a pure heart and good intentions, many people use 
+    them to commit or help commit crimes. A nefarious individual may use cloud services to host a highly available 
+    Command and Control (C2) server, a messaging app to form and communicate with a gang or hacking group, or IoT 
+    devices as part of a botnet designed to perform Distributed Denial of Service (DDoS) attacks. 
+    When these technologies are used in the commission of a crime, they hold valuable information that needs to be recovered 
+    forensically to use as evidence to convict the perpetrators. Unfortunately, that ever-evolving technology poses many 
+    challenges for digital forensics. This paper identifies and presents many of the challenges faced in digital forensics 
+    involving mobile devices, IoT devices, and cloud services in addition to proposing a framework for solving the IoT Forensic 
+    Data Analysis problem.
 #3
 - authors:
     - Riccardo Boggetti
   title: "Microservice Migration: Face-Off Decomposition and Integration Challenges"
 #  paper: empty_paper.pdf
 #  slides: empty_slides.pdf
-#  abstract: |
-#    Lorem ipsum
+  abstract: |
+    In a world that is demanding microservices but ruled by legacy and monolith applications yet, it could be tough arrange a 
+    successfully migration due to a lot of challenges and both operative and organisational issues. 
+    Thanks to modern technologies, such as low code and machine learning, and specific purpose solutions you can ease your journey.
 #4
 - authors:
     - Tomas Cerny
@@ -46,16 +60,26 @@
   title: Static analysis tools in the era of cloud-native systems
 #  paper: empty_paper.pdf
 #  slides: empty_slides.pdf
-#  abstract: |
-#    Lorem ipsum
+  abstract: |
+    Microservices-based architectures are based on a set of small services, developed and deployed independently. 
+    The independent nature of this modular architecture also creates gaps. 
+    The initial system design plan might be far from what is eventually developed and the architecture may degrade over time. 
+    This work challenges the audience on how static analysis could contribute to microservice system development and management, 
+    and in particular managing architectural degradation. We elaborate on challenges and needed changes in the traditional code 
+    analysis to better fit these systems and we discuss implications on practitioners when robust static analysis tools will become available.
 #5
 - authors:
     - Eric Chartré
   title: Airtight NFR and Cross-Cutting Concerns through a MECE Pipeline Taxonomy for a Highly Reactive Microservice-Based Architecture
 #  paper: empty_paper.pdf
 #  slides: empty_slides.pdf
-#  abstract: |
-#   Lorem ipsum
+  abstract: |
+    Non-functional requirements (NFR), protocol fitness, aspects and cross-cutting concerns in a microservice-based architecture are critical 
+    issues that cannot be ignored. This paper proposes a MECE pipeline taxonomy that can help to address these issues. The execution pipeline 
+    consists of a series of addressable filters within a reusable and configurable framework. This pipeline taxonomy organizes business 
+    informational resources and nullipotent filters in a strict predetermined sequential order. This order cannot be changed but filters can 
+    be activated or deactivated according to the needed requirements. This taxonomy defines which component can call another component, as a 
+    stage director would do in a choreography. 
 #6
 - authors:
     - Oliver Cvetkovski
@@ -63,11 +87,18 @@
     - Davide Trinchi
     - Christof Marti
     - Josef Spillner
-  title: ZVAX ? A Microservice Reference Architecture for Nation-Scale Pandemic Management
+  title: ZVAX - A Microservice Reference Architecture for Nation-Scale Pandemic Management
 #  paper: empty_paper.pdf
 #  slides: empty_slides.pdf
-#  abstract: |
-#    Lorem ipsum
+  abstract: |
+    Domain-specific Microservice Reference Architectures (MSRA) have become relevant study objects in software technology. 
+    They facilitate the technical evaluation of service designs, compositions patterns and deployment configurations in realistic operational 
+    practice. Knowledge about MSRA is predominantly confined to business domains with usually not more than few thousands of users per application. 
+    Due to the ongoing digital transformation of society, people-related online services in e-government, e-health and similar domains must be 
+    designed to be highly scalable at entire nation level at affordable infrastructure cost. With ZVAX, we present work in progress in the 
+    e-health domain. Specifically, ZVAX is an MSRA for pandemic-related processes such as vaccination registration and passenger locator form 
+    submission, with emphasis on selectable levels of privacy. We argue that ZVAX is valuable as study object for the training of software engineers 
+    and for the debate on government-to-citizen services.
 #7
 - authors:
     - Saverio Giallorenzo
@@ -77,8 +108,13 @@
   title: "LEMMA2Jolie: Model-Driven Generation of Microservice Interfaces"
 #  paper: empty_paper.pdf
 #  slides: empty_slides.pdf
-#  abstract: |
-#    Lorem ipsum
+  abstract: |
+    We present our first step towards the integration of two language-based approaches to Microservice Architecture(MSA) engineering, 
+    namely the MSA-focused modelling ecosystem LEMMA and the microservice programming language Jolie. We formally define and implement a translation 
+    from domain models in the LEMMA modelling framework to microservice APIs in the Jolie programming language. Our tool, called LEMMA2Jolie, enables 
+    a software development process whereby microservice architectures can first be designed with the leading method of Domain-Driven Design, and then 
+    corresponding data types and service interfaces (APIs) in Jolie are automatically generated. Developers can extend and use these APIs as guides 
+    in order to produce compliant implementations. Our tool thus contributes to enhancing productivity and improving the design adherence of microservices.
 #8
 - authors:
     - Gabriele Gianoglio
@@ -86,7 +122,7 @@
   paper: empty_paper.pdf
   slides: empty_slides.pdf
   abstract: |
-    Lorem ipsum
+    An overview of Asgardeo and how its use can simplify the CIAM processes of companies.
 #9
 - authors:
     - Claudio Guidi
@@ -97,8 +133,11 @@
   title: A MAPE-K Approach to Autonomic Microservices
 #  paper: empty_paper.pdf
 #  slides: empty_slides.pdf
-#  abstract: |
-#    Lorem ipsum
+  abstract: |
+    Microservices are an emerging architectural style advocating for small loosely-coupled services in order to maximize scalability and adaptability. 
+    In order to help IT personnel, adaptability can be put (completely or partially) under the responsibility of the system using autonomic techniques, 
+    e.g., underpinned by a MAPE-K control loop. This paper discusses possible trade-offs, challenges and support techniques for software architects 
+    involved in building autonomic microservice-based systems. 
 #10
 - authors:
     - Anne Møller Madsen
@@ -106,8 +145,9 @@
   title: Synthesising Java Implementations of Choreographic Protocols
 #  paper: empty_paper.pdf
 #  slides: empty_slides.pdf
-#  abstract: |
-#    Lorem ipsum
+  abstract: |
+    We present Modular Choreographies, a new programming language and toolchain for writing choreographies of distributed systems in a simple 
+    language and then obtain compliant implementations in terms of Java libraries.
 #11
 - authors:
     - Denis Pinheiro
@@ -116,8 +156,12 @@
   title: "Microservice Smells and Automated Detection Tools: A Systematic Literature Review"
 #  paper: empty_paper.pdf
 #  slides: empty_slides.pdf
-#  abstract: |
-#    Lorem ipsum
+  abstract: |
+    Several microservice smells and automated detection tools has been proposed and studied in the literature, but they still lack a cohesive and 
+    organized documentation and consistent terminology. To fill this gap, this work presents a systematic literature review of 15 papers that 
+    investigated the most recent microservice smells and related detection tools. As a result, we present the landscape (where, when and how they occur) 
+    and document of 77 microservice smells (what), 2 detection tools and other 19 related tools commonly used to automate detection of architecture 
+    smells and support adoption of microservices.
 #12
 - authors:
     - Daniele Rossi
@@ -129,18 +173,28 @@
   title: Automated microservices deployment and dynamic traffic forwarding through 5G networks
 #  paper: empty_paper.pdf
 #  slides: empty_slides.pdf
-#  abstract: |
-#    Lorem ipsum
+  abstract: |
+    To approach the complexity of microservices collaboration and composition, a microservice oriented language like Jolie can be used. 
+    Jung is platform written in Jolie that allows to deploy distributed microservice applications in an integrated way. 
+    In this manuscript we further integrate the capability to deploy with different network connectivity alternatives, in particular 5G. 
+    On top of the network, few digital entities will be used to abstract network capabilities and offer to third-party users a standardized and 
+    uniform way to talk with the 5G-core network system.
 #13
 - authors:
     - Pablo Serrano
     - Inmaculada Ayala
     - Lidia Fuentes
-  title: "Applying QoS in FaaS applications: a Software ProductLine approach"
+  title: "Applying QoS in FaaS applications: a Software Product Line approach"
 #  paper: empty_paper.pdf
 #  slides: empty_slides.pdf
-#  abstract: |
-#    Lorem ipsum
+  abstract: |
+    A FaaS system offers numerous advantages for the developer of microservices-based systems since they do not have to worry about the infrastructure 
+    that supports them or scaling and maintenance tasks. However, it is not easy to apply quality of service (QoS)policies in these kind of applications. 
+    The high number of functions that an application can have and its various implementations introduce a high variability that requires a mechanism to 
+    decide which functions are more appropriate to achieve specific goals. We propose a Software Product Line based approach that uses feature models 
+    that model the appli-cation’s tasks and operations, considering the family of services derived from the multiple functions that can perform a specific 
+    procedure. Through an optimization process, the system obtains an optimal configuration that it will use to direct service requests to the most 
+    appropriate functions to meet certain QoS requirements.
 #14
 - authors:
     - Jacopo Soldani
@@ -149,8 +203,13 @@
   title: Explainable Root Cause Analysis for Failing Microservices
 #  paper: empty_paper.pdf
 #  slides: empty_slides.pdf
-#  abstract: |
-#    Lorem ipsum
+  abstract: |
+    Determining the root causes of observed failures is a main issue in microservice-based applications. 
+    Unfortunately, available root cause analysis techniques do not focus on explaining how root failures actually caused the observed failure. 
+    On the other hand, the availability of such explanations would greatly help to pick adequate countermeasures, e.g., by introducing circuit breakers 
+    or bulkheads. We hence present a declarative root cause analysis technique, which can determine the cascading failures that possibly caused an 
+    observed failure, identifying also (or starting from) a root cause. We also introduce a prototype implementation of our technique, and briefly 
+    comment on how we used it to assess our technique by means of controlled experiments.
 #15
 - authors:
     - Evgeny Volynsky
@@ -159,8 +218,27 @@
   title: "Architect: A Framework for the Migration to Microservices"
 #  paper: empty_paper.pdf
 #  slides: empty_slides.pdf
-#  abstract: |
-#    Lorem ipsum
+  abstract: |
+    Motivation: The migration from a monolithic to a microservice architecture is a recurring step in many software projects. 
+    With the increasing distributed nature of the transformed system, new challenges for data consistency and deployment arise, which can be counteracted 
+    by the integration of microservices patterns. However, the use of such patterns is complex and time-consuming. 
+
+    Objectives: In this paper, we describe a case study of a migration process of the learning management system Artemis which consists of two phases. 
+    The first phase shows the transformation from a monolithic architecture to a microservice architecture with a shared database. 
+    It sets as a goal the identification of microservice boundaries, the decomposition of the monolith application into multiple distributed entities, 
+    as well as their orchestration in a cloud-ready environment. The second phase migrates the shared database into multiple databases based on the 
+    database-per-microservice pattern. 
+
+    Method: While analyzing the current Artemis architecture, we describe a gradual refactoring of an existing application to decompose Artemis into 
+    multiple subsystems. We developed Architect, a framework which is based on a domain-specific language for building dependable distributed systems 
+    as a template to ensure the data consistency of the distributed transactions using the Saga pattern. 
+
+    Results: We decomposed Artemis into 3 microservices and provided the migration concept from shared-database to database-per-microservice using 
+    Architect. The framework helped to reduce the complexity of using the Saga pattern. It introduced the eventual consistency in a distributed database system and decreased the coupling of the data storage. 
+
+    Discussion: The migration to a microservice architecture solves many problems of a monolith application, but introduces new challenges and increases 
+    the complexity of the overall system. Architect focuses on greenfield project, but currently does not provide a software evolution approach. 
+    We will add support for reengineering projects, which can facilitate the migration process of existing system.
 #16
 - authors:
     - Philip Wizenty
@@ -168,9 +246,13 @@
   title: Towards Viewpoint-Based Microservice Architecture Reconstruction
 #  paper: empty_paper.pdf
 #  slides: empty_slides.pdf
-#  abstract: |
-#    Lorem ipsum
-    
+  abstract: |
+    Microservice Architecture (MSA) is a comparatively novel approach to realizing service-based software architectures. 
+    Microservices and their service-specific independence can make software systems more scalable and reliable. 
+    In addition, MSA is expected to greatly benefit maintainability by facilitating the replacement of services with improved versions. 
+    However, this flexibility may also lead to a proliferation of microservices and a subsequent erosion of the anticipated architecture design. 
+    Consequently, the investigation of Software Architecture Reconstruction (SAR) of existing systems is important in MSA research. 
+    Our paper presents an MDE-enabled SAR approach to reconstruct MSA.
 # - authors:
 #     - author
 #   title: title
