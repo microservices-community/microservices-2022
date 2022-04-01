@@ -6,7 +6,7 @@
     - title: Registration desk
       from: "8:00"
       to: "9:00"
-      location: <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue"><a href="/../attending/#map-to-reach-the-conference-room-inside-the-venue">Amphithéâtre</a></a>
+      location: Amphithéâtre
     - title: Welcome and opening speech
       from: "9:00"
       to: "9:30"
@@ -175,5 +175,4 @@
       to: "17:00"
       #      non-session: true
       location: Amphithéâtre
-
-See the list of <a href="https://www.conf-micro.services/2022/keynotes/">invited keynotes</a> and of <a href="https://www.conf-micro.services/2022/accepted/">talks</a> contributed by the community.
+#See the list of <a href="https://www.conf-micro.services/2022/keynotes/">invited keynotes</a> and of <a href="https://www.conf-micro.services/2022/accepted/">talks</a> contributed by the community.
