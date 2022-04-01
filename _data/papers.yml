@@ -9,8 +9,19 @@
   title: From Reactive to Proactive Global Scaling
 #  paper: empty_paper.pdf
 #  slides: empty_slides.pdf
-#  abstract: |
-#    Lorem ipsum
+  abstract: |
+    Modern Cloud autoscaling techniques scale microservice replicas to adapt to their in-bound traffic. 
+    We recently theorised and evaluated a scaling technique called architecture-level, global scaling, 
+    able to scale the whole architecture w.r.t. an expected amount of traffic. Among its benefits, global 
+    scaling helps to prevent “domino” effects (cascading slowdowns) due to the unstructured scaling actions 
+    of microservice-level scaling.
+    
+    The current notion of global scaling assumes a reactive behaviour w.r.t. traffic fluctuations, where the 
+    latter trigger the application of the related scaling plans. Here, we challenge this reactive interpretation, 
+    and we propose a proactive extension of global scaling able to increase the efficiency of global scaling, 
+    by further lowering latency and message loss due to the runtime overhead of allocating virtual machines and replicas.
+    Our contributions include the proposal of a platform for proactive global autoscaling and a preliminary benchmarking 
+    of the efficiency gain of proactive vs reactive global scaling.
 #2
 - authors:
     - Benjamin Benson
