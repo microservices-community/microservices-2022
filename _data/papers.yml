@@ -119,8 +119,8 @@
 - authors:
     - Gabriele Gianoglio
   title: Asgardeo is the last solution as a service from WSO2
-  paper: empty_paper.pdf
-  slides: empty_slides.pdf
+#  paper: empty_paper.pdf
+#  slides: empty_slides.pdf
   abstract: |
     An overview of Asgardeo and how its use can simplify the CIAM processes of companies.
 #9
