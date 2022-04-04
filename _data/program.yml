@@ -163,8 +163,39 @@
     - title: Funding and Consortium Building Workshop
       from: "14:00"
       to: "15:30"
+      authors:
+        - Christian Walther Bruun
       #      non-session: true
       location: Amphithéâtre
+      abstract: |
+        <strong>Topic:</strong>
+        <br>
+        Participants will get insights into the opportunities of obtaining EU funding via the European framework programme Horizon Europe and Eurostars. These support research and innovation activities for companies, universities and organisations interested in developing joint European projects. The workshop will have two main parts:
+        <br>
+        <ul>
+          <li>Overview of funding opportunities relevant for microservices (MSCA, research and innovation project and Eurostars projects)</li>
+          <li>Project idea pitches and networking amongst participants</li>
+        </ul>
+
+        <strong>About me:</strong>
+        <br>
+        Christian is a Board Member of Microservices Community and the Director of Grøn/Bruun a pre-award and grant writing consultancy based in Copenhagen Denmark, with clients all over Europe. Grøn/Bruun assists in developing international proposals for industry and academia with a focus on Horizon Europe and the Eurostars funding programmes. Christian has worked in the Danish Agency for Science and Higher Education, European Commission and South Denmark European Office. At these jobs he  was lead or directly involved in the Horizon 2020 Interim Evaluation, FP7 Ex-Post Evaluation, Big Science Business Forum 2018, Horizon 2020 proposals, public affairs, organisational analysis of R&I as well as extensive work with communication and dissemination of research and innovation. <a href="https://www.linkedin.com/in/christian-walther-bruun-4897072/">LinkedIn</a>
+        <br><br>
+        <strong>What is Horizon Europe?</strong>
+        <br>
+        Horizon Europe is the EU's research and innovation programme, that will run from 2021–2027 with a total budget of around 85 billion EUR, with many types of instruments and grants promoting European research and innovation.
+        <br><br>
+        <strong>What is Eurostars?</strong>
+        <br>
+        Eurostars is a member state-supported EU programme aimed at promoting innovation in SME’s in Europe by funding collaboration projects for these also including university and large industry partners.
+        <br><br>
+        <strong>Who should participate?</strong>
+        <br>
+        Industry, organisation and university staff interested in obtaining funding for research or innovation project using microservices or adjacent approaches.
+        <br><br>
+        <strong>Why should you participate?</strong>
+        <br>
+        Participants will gain insight into the in and outs of Horizon Europe, learning about how to find and read a call, how to build a consortium and meet like-minded people from around Europe.
     - title: Coffee Break
       from: "15:30"
       to: "16:00"

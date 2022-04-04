@@ -16,8 +16,8 @@ The finalised version will be published at the beginning of February.
 {% endif %}
 
 <style>
-  td { padding: 8px; 
-    border-top: 1px solid #ddd; 
+  td { padding: 8px;
+    border-top: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
   }
   .left-td {  border-right: 4px solid #ddd; }
@@ -42,17 +42,21 @@ The finalised version will be published at the beginning of February.
           {% if event.authors %}
           <br>
           {% for author in event.authors %}
-            {% if author.title %} 
+            {% if author.title %}
               {{author.title}}: <strong>{{author.name}}</strong>
             {% else %}
               <strong>{{author}}</strong>
-            {% endif %}      
+            {% endif %}
           {% endfor %}
+          {% endif %}
+          {% if event.abstract %}
+          <br>
+          <label class="abstract_btn btn btn-xs btn-info">Abstract</label>
           {% endif %}
           {% if event.slides %}
             <br>
             <a target="_blank" style="color:white" href="/2019/slides/{{event.slides}}"><label class="btn btn-xs btn-success">
-            <span class="glyphicon glyphicon-circle-arrow-down"></span> Slides</label></a> 
+            <span class="glyphicon glyphicon-circle-arrow-down"></span> Slides</label></a>
             <br>
           {% endif %}
           {% if event.description %}
@@ -60,6 +64,9 @@ The finalised version will be published at the beginning of February.
             <span class="text-muted">{{ event.description }}</span>
             <br>
           {% endif %}
+          <div style="display:none;" class="abstract">
+            <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning">{{event.abstract}}</div>
+          </div>
           {% if event.papers.size > 0 %}
             {% for pid in event.papers %}
               {% assign id = pid | minus: 1 %}
@@ -91,7 +98,7 @@ The finalised version will be published at the beginning of February.
               </a>
               {% endif %}
               <div style="display:none;" class="abstract">
-              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning">{{paper.abstract}}</div>
+                <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning">{{paper.abstract}}</div>
               </div>
               {% endunless %}
               </div>
