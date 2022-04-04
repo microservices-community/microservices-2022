@@ -45,7 +45,7 @@ The finalised version will be published at the beginning of February.
             {% if author.title %} 
               {{author.title}}: <strong>{{author.name}}</strong>
             {% else %}
-              {{event.author}}
+              <strong>{{author}}</strong>
             {% endif %}      
           {% endfor %}
           {% endif %}
@@ -79,14 +79,16 @@ The finalised version will be published at the beginning of February.
               </strong>
               {% unless tentative %}
               <br>
+              {% if paper.link %}
               <a target="_blank" style="color:white" href="{{paper.link}}">
-                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
-              </label></a>
-              <label class="abstract_btn btn btn-xs btn-info">
-                Abstract</label>
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper</label>
+              </a>
+              {% endif %}
+              <label class="abstract_btn btn btn-xs btn-info">Abstract</label>
               {% if paper.slides %}
               <a target="_blank" style="color:white" href="/2019/slides/papers/{{paper.slides}}">
-                <label class="btn btn-xs btn-success"> <span class="glyphicon glyphicon-circle-arrow-down"></span> Slides</label></a> 
+                <label class="btn btn-xs btn-success"> <span class="glyphicon glyphicon-circle-arrow-down"></span> Slides</label>
+              </a>
               {% endif %}
               <div style="display:none;" class="abstract">
               <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning">{{paper.abstract}}</div>

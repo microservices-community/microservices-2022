@@ -126,7 +126,7 @@
       from: "19:30"
       to: "22:00"
       #      non-session: true
-      location: Paris (TBA)      
+      location: Paris (TBA)
 - day: May 12th
   color: "#aeffbf"
   theme: Migration to Microservices
