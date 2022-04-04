@@ -7,7 +7,7 @@
     - Gianluigi Zavattaro
     - Stefano Pio Zingaro
   title: From Reactive to Proactive Global Scaling
-#  paper: empty_paper.pdf
+#  paper: paper_1.pdf
 #  slides: empty_slides.pdf
   abstract: |
     Modern Cloud autoscaling techniques scale microservice replicas to adapt to their in-bound traffic. 
@@ -26,7 +26,7 @@
     - Benjamin Benson
     - Gokila Dorai
   title: Grey Areas of Digital Forensic Tools and a Framework to Solve the IoT Data Forensic Analysis Problems
-#  paper: empty_paper.pdf
+#  paper: paper_2.pdf
 #  slides: empty_slides.pdf
   abstract: |
     The constant and rapid evolution of technology has led to some amazing achievements. 
@@ -47,7 +47,7 @@
 - authors:
     - Riccardo Boggetti
   title: "Microservice Migration: Face-Off Decomposition and Integration Challenges"
-#  paper: empty_paper.pdf
+#  paper: paper_3.pdf
 #  slides: empty_slides.pdf
   abstract: |
     In a world that is demanding microservices but ruled by legacy and monolith applications yet, it could be tough arrange a 
@@ -58,7 +58,7 @@
     - Tomas Cerny
     - Davide Taibi
   title: Static analysis tools in the era of cloud-native systems
-#  paper: empty_paper.pdf
+#  paper: paper_4.pdf
 #  slides: empty_slides.pdf
   abstract: |
     Microservices-based architectures are based on a set of small services, developed and deployed independently. 
@@ -71,7 +71,7 @@
 - authors:
     - Eric Chartré
   title: Airtight NFR and Cross-Cutting Concerns through a MECE Pipeline Taxonomy for a Highly Reactive Microservice-Based Architecture
-#  paper: empty_paper.pdf
+#  paper: paper_5.pdf
 #  slides: empty_slides.pdf
   abstract: |
     Non-functional requirements (NFR), protocol fitness, aspects and cross-cutting concerns in a microservice-based architecture are critical 
@@ -88,7 +88,7 @@
     - Christof Marti
     - Josef Spillner
   title: ZVAX - A Microservice Reference Architecture for Nation-Scale Pandemic Management
-#  paper: empty_paper.pdf
+#  paper: paper_6.pdf
 #  slides: empty_slides.pdf
   abstract: |
     Domain-specific Microservice Reference Architectures (MSRA) have become relevant study objects in software technology. 
@@ -106,7 +106,7 @@
     - Marco Peressotti
     - Florian Rademacher
   title: "LEMMA2Jolie: Model-Driven Generation of Microservice Interfaces"
-#  paper: empty_paper.pdf
+#  paper: paper_7.pdf
 #  slides: empty_slides.pdf
   abstract: |
     We present our first step towards the integration of two language-based approaches to Microservice Architecture(MSA) engineering, 
@@ -119,7 +119,7 @@
 - authors:
     - Gabriele Gianoglio
   title: Asgardeo is the last solution as a service from WSO2
-#  paper: empty_paper.pdf
+#  paper: paper_8.pdf
 #  slides: empty_slides.pdf
   abstract: |
     An overview of Asgardeo and how its use can simplify the CIAM processes of companies.
@@ -131,7 +131,7 @@
     - Nelly Bencomo
     - Josef Spillner
   title: A MAPE-K Approach to Autonomic Microservices
-#  paper: empty_paper.pdf
+#  paper: paper_9.pdf
 #  slides: empty_slides.pdf
   abstract: |
     Microservices are an emerging architectural style advocating for small loosely-coupled services in order to maximize scalability and adaptability. 
@@ -143,7 +143,7 @@
     - Anne Møller Madsen
     - Fabrizio Montesi
   title: Synthesising Java Implementations of Choreographic Protocols
-#  paper: empty_paper.pdf
+#  paper: paper_10.pdf
 #  slides: empty_slides.pdf
   abstract: |
     We present Modular Choreographies, a new programming language and toolchain for writing choreographies of distributed systems in a simple 
@@ -154,7 +154,7 @@
     - Johnatan Oliveira
     - Eduardo Figueiredo
   title: "Microservice Smells and Automated Detection Tools: A Systematic Literature Review"
-#  paper: empty_paper.pdf
+#  paper: paper_11.pdf
 #  slides: empty_slides.pdf
   abstract: |
     Several microservice smells and automated detection tools has been proposed and studied in the literature, but they still lack a cohesive and 
@@ -171,7 +171,7 @@
     - Antonella Bellettini
     - Franco Callegati
   title: Automated microservices deployment and dynamic traffic forwarding through 5G networks
-#  paper: empty_paper.pdf
+#  paper: paper_12.pdf
 #  slides: empty_slides.pdf
   abstract: |
     To approach the complexity of microservices collaboration and composition, a microservice oriented language like Jolie can be used. 
@@ -185,7 +185,7 @@
     - Inmaculada Ayala
     - Lidia Fuentes
   title: "Applying QoS in FaaS applications: a Software Product Line approach"
-#  paper: empty_paper.pdf
+#  paper: paper_13.pdf
 #  slides: empty_slides.pdf
   abstract: |
     A FaaS system offers numerous advantages for the developer of microservices-based systems since they do not have to worry about the infrastructure 
@@ -201,7 +201,7 @@
     - Stefano Forti
     - Antonio Brogi
   title: Explainable Root Cause Analysis for Failing Microservices
-#  paper: empty_paper.pdf
+#  paper: paper_14.pdf
 #  slides: empty_slides.pdf
   abstract: |
     Determining the root causes of observed failures is a main issue in microservice-based applications. 
@@ -216,7 +216,7 @@
     - Merlin Mehmed
     - Stephan Krusche
   title: "Architect: A Framework for the Migration to Microservices"
-#  paper: empty_paper.pdf
+#  paper: paper_15.pdf
 #  slides: empty_slides.pdf
   abstract: |
     Motivation: The migration from a monolithic to a microservice architecture is a recurring step in many software projects. 
@@ -244,7 +244,7 @@
     - Philip Wizenty
     - Florian Rademacher
   title: Towards Viewpoint-Based Microservice Architecture Reconstruction
-#  paper: empty_paper.pdf
+#  paper: paper_16.pdf
 #  slides: empty_slides.pdf
   abstract: |
     Microservice Architecture (MSA) is a comparatively novel approach to realizing service-based software architectures. 
