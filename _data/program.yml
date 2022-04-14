@@ -149,14 +149,13 @@
       #      chairs:
       #        - Chair Name
       from: "11:00"
-      to: "12:30"
+      to: "12:00"
       papers:
-        - 15
         - 7
         - 3
       location: Amphithéâtre
     - title: Lunch
-      from: "12:30"
+      from: "12:00"
       to: "14:00"
       non-session: true
       location: Salle panoramique
