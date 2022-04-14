@@ -26,7 +26,7 @@
 
 - summary: Early bird registration
   id: early-bird
-  expired: false
+  expired: true
   entries:
     - date: 2022-04-11
       zone:
