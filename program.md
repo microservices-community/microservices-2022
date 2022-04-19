@@ -86,10 +86,10 @@ The finalised version will be published at the beginning of February.
               </strong>
               {% unless tentative %}
               <br>
-              {% if paper.link %}
-              <a target="_blank" style="color:white" href="{{paper.link}}">
-                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper</label>
-              </a>
+              {% if paper.paper %}
+                <a target="_blank" style="color:white" href="{{ "/papers/" | append: paper.paper | relative_url }}">
+                  <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+                </label></a>
               {% endif %}
               <label class="abstract_btn btn btn-xs btn-info">Abstract</label>
               {% if paper.slides %}
