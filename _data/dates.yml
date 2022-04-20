@@ -35,7 +35,7 @@
 
 - summary: Camera-ready
   id: camera-ready
-  expired: false
+  expired: true
   entries:
     - date: 2022-04-15
       zone:
