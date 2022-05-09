@@ -4,7 +4,7 @@
   theme: Autonomic Microservices and SW Engineering Approaches
   events:
     - title: Registration desk
-      from: "8:00"
+      from: "8:30"
       to: "9:00"
       location: Auditorium
     - title: Welcome and opening speech
@@ -61,8 +61,8 @@
       non-session: true
       location: Salle panoramique
     - title: SW Engineering Approaches
-      #      chairs:
-      #        - Chair Name
+      chairs:
+        - Jaime Arias
       from: "15:30"
       to: "16:30"
       papers:
