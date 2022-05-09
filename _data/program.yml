@@ -4,11 +4,11 @@
   theme: Autonomic Microservices and SW Engineering Approaches
   events:
     - title: Registration desk
-      from: "8:30"
-      to: "9:00"
+      from: "8:40"
+      to: "9:10"
       location: Auditorium
     - title: Welcome and opening speech
-      from: "9:00"
+      from: "9:10"
       to: "9:30"
       authors:
         - name: Fabrizio Montesi
