@@ -46,7 +46,7 @@
 #3
 - authors:
     - Riccardo Boggetti
-  title: "Microservice Migration: Face-Off Decomposition and Integration Challenges"
+  title: "Microservice Migration: Face-Off Decomposition and Integration Challenges (online)"
   paper: paper_3.pdf
 #  slides: empty_slides.pdf
   abstract: |
@@ -106,7 +106,7 @@
     - Fabrizio Montesi
     - Marco Peressotti
     - Florian Rademacher
-  title: "LEMMA2Jolie: Model-Driven Generation of Microservice Interfaces"
+  title: "LEMMA2Jolie: Model-Driven Generation of Microservice Interfaces (online)"
   paper: paper_7.pdf
 #  slides: empty_slides.pdf
   abstract: |
@@ -118,8 +118,8 @@
     in order to produce compliant implementations. Our tool thus contributes to enhancing productivity and improving the design adherence of microservices.
 #8
 - authors:
-    - Gabriele Gianoglio
-  title: Asgardeo is the last solution as a service from WSO2
+    - Gabriele Gianoglio 
+  title: Asgardeo is the last solution as a service from WSO2 (online)
   paper: paper_8.pdf
 #  slides: empty_slides.pdf
   abstract: |
