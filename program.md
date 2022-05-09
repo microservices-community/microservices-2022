@@ -55,7 +55,7 @@ The finalised version will be published at the beginning of February.
           {% endif %}
           {% if event.slides %}
             <br>
-            <a target="_blank" style="color:white" href="/2019/slides/{{event.slides}}"><label class="btn btn-xs btn-success">
+            <a target="_blank" style="color:white" href="/2022/slides/{{event.slides}}"><label class="btn btn-xs btn-success">
             <span class="glyphicon glyphicon-circle-arrow-down"></span> Slides</label></a>
             <br>
           {% endif %}

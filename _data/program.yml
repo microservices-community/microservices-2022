@@ -25,6 +25,7 @@
           title: Technical Debt and Microservices
       description: |
         <a href="https://www.conf-micro.services/2022/keynotes/#technical-debt-and-microservices">Abstract of the keynote</a>
+      slides: Lenarduzzi.pdf
       location: Amphithéâtre
     - title: Coffee Break
       from: "10:30"
