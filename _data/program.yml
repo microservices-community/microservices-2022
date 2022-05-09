@@ -4,11 +4,11 @@
   theme: Autonomic Microservices and SW Engineering Approaches
   events:
     - title: Registration desk
-      from: "8:00"
-      to: "9:00"
-      location: Amphithéâtre
+      from: "8:40"
+      to: "9:10"
+      location: Auditorium
     - title: Welcome and opening speech
-      from: "9:00"
+      from: "9:10"
       to: "9:30"
       authors:
         - name: Fabrizio Montesi
@@ -16,7 +16,7 @@
       description: |
         Opening speech to welcome all the attendees and
         introduce the organisation and the environment around the conference.
-      location: Amphithéâtre
+      location: Auditorium
     - title: Keynote Speaker
       from: "9:30"
       to: "10:30"
@@ -26,50 +26,50 @@
       description: |
         <a href="https://www.conf-micro.services/2022/keynotes/#technical-debt-and-microservices">Abstract of the keynote</a>
       slides: Lenarduzzi.pdf
-      location: Amphithéâtre
+      location: Auditorium
     - title: Coffee Break
       from: "10:30"
       to: "11:00"
       non-session: true
       location: Salle panoramique
     - title: Autonomic Microservices
-      #      chairs:
-      #        - Chair Name
+      chairs:
+        - Fabrizio Montesi
       from: "11:00"
       to: "12:30"
       papers:
         - 9
         - 5
         - 14
-      location: Amphithéâtre
+      location: Auditorium
     - title: Lunch
       from: "12:30"
       to: "14:00"
       non-session: true
       location: Salle panoramique
     - title: Automonic Microservices
-      #      chairs:
-      #        - Chair Name
+      chairs:
+        - Jaime Arias
       from: "14:00"
       to: "15:00"
       papers:
         - 1
         - 12
-      location: Amphithéâtre
+      location: Auditorium
     - title: Coffee Break
       from: "15:00"
       to: "15:30"
       non-session: true
       location: Salle panoramique
     - title: SW Engineering Approaches
-      #      chairs:
-      #        - Chair Name
+      chairs:
+        - Fabio Casati
       from: "15:30"
       to: "16:30"
       papers:
         - 13
         - 11
-      location: Amphithéâtre
+      location: Auditorium
 - day: May 11th
   color: "#aee9ff"
   theme: Architectures and Tools
@@ -82,12 +82,12 @@
           title: Crossing the Chasm Between AI Services and AI-powered Workflows
       description: |
         <a href="https://www.conf-micro.services/2022/keynotes/#crossing-the-chasm-between-ai-services-and-ai-powered-workflows">Abstract of the keynote</a>
-      location: Amphithéâtre
+      location: Auditorium
     - title: Coffee Break
       from: "10:30"
       to: "11:00"
       non-session: true
-      location: Amphithéâtre
+      location: Auditorium
     - title: Architectures
       #      chairs:
       #        - Chair Name
@@ -97,7 +97,7 @@
         - 6
         - 16
         - 2
-      location: Amphithéâtre
+      location: Auditorium
     - title: Lunch
       from: "12:30"
       to: "14:00"
@@ -112,7 +112,7 @@
         - 10
         - 4
         - 8
-      location: Amphithéâtre
+      location: Auditorium
     - title: Coffee Break
       from: "15:30"
       to: "16:00"
@@ -122,12 +122,12 @@
       from: "16:00"
       to: "17:00"
       #      non-session: true
-      location: Amphithéâtre
+      location: Auditorium
     - title: Social Dinner
       from: "19:30"
       to: "22:00"
       #      non-session: true
-      location: Paris (TBA)
+      location: <a href="https://www.conf-micro.services/2022/attending/#restaurant">Bouillon Racine</a>
 - day: May 12th
   color: "#aeffbf"
   theme: Migration to Microservices
@@ -140,12 +140,12 @@
           title: The Microservice Hypothesis
       description: |
         <a href="https://www.conf-micro.services/2022/keynotes/#the-microservice-hypothesis">Abstract of the keynote</a>
-      location: Amphithéâtre
+      location: Auditorium
     - title: Coffee Break
       from: "10:30"
       to: "11:00"
       non-session: true
-      location: Amphithéâtre
+      location: Auditorium
     - title: Migration to Microservices
       #      chairs:
       #        - Chair Name
@@ -154,19 +154,19 @@
       papers:
         - 7
         - 3
-      location: Amphithéâtre
+      location: Auditorium
     - title: Lunch
       from: "12:00"
-      to: "14:00"
+      to: "13:30"
       non-session: true
       location: Salle panoramique
     - title: Funding and Consortium Building Workshop
-      from: "14:00"
-      to: "15:30"
+      from: "13:30"
+      to: "15:00"
       authors:
         - Christian Walther Bruun
       #      non-session: true
-      location: Amphithéâtre
+      location: Auditorium
       abstract: |
         <strong>Topic:</strong>
         <br>
@@ -197,12 +197,12 @@
         <br>
         Participants will gain insight into the in and outs of Horizon Europe, learning about how to find and read a call, how to build a consortium and meet like-minded people from around Europe.
     - title: Coffee Break
-      from: "15:30"
-      to: "16:00"
+      from: "15:00"
+      to: "15:30"
       non-session: true
       location: Salle panoramique
     - title: Awards Ceremony
-      from: "16:30"
-      to: "17:00"
+      from: "16:00"
+      to: "16:30"
       #      non-session: true
-      location: Amphithéâtre
+      location: Auditorium

@@ -45,7 +45,7 @@
 - summary: Registration
   hide_from: ics
   id: registration
-  expired: false
+  expired: true
   entries:
     - from: 2022-03-07
       to: 2022-04-25

@@ -30,9 +30,7 @@ during the registration process (one ticket per person).
 
 <div markdown="1" class="text-justify">
 <p style="margin:2em;" class="text-center">
-    <a href="https://www.azur-colloque.fr/DR01/inscription" target="_blank">
-        <button style="padding:1em;" type="button" class="btn btn-primary btn-lg">Register Now</button>
-    </a>
+        <button style="padding:1em;" type="button" class="btn btn-primary btn-lg disabled">The registration is closed</button>
 </p>
 <div class="clearfix"></div>
 
