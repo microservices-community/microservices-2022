@@ -63,7 +63,7 @@
       location: Salle panoramique
     - title: SW Engineering Approaches
       chairs:
-        - Fabio Casati
+        - Cesare Pautasso
       from: "15:30"
       to: "16:30"
       papers:
@@ -89,8 +89,8 @@
       non-session: true
       location: Auditorium
     - title: Architectures
-      #      chairs:
-      #        - Chair Name
+      chairs:
+        - Dimka Karastoyanova
       from: "11:00"
       to: "12:30"
       papers:
