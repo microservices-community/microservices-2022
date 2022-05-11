@@ -147,8 +147,8 @@
       non-session: true
       location: Auditorium
     - title: Migration to Microservices
-      #      chairs:
-      #        - Chair Name
+      chairs:
+        - Davide Taibi
       from: "11:00"
       to: "12:00"
       papers:
