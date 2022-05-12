@@ -166,6 +166,7 @@
       authors:
         - Christian Walther Bruun
       #      non-session: true
+      slides: Workshop.pptx
       location: Salle panoramique
       abstract: |
         <strong>Topic:</strong>
