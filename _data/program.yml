@@ -138,6 +138,7 @@
       authors:
         - name: Cesare Pautasso
           title: The Microservice Hypothesis
+      slides: Pautasso.pdf          
       description: |
         <a href="https://www.conf-micro.services/2022/keynotes/#the-microservice-hypothesis">Abstract of the keynote</a>
       location: Auditorium
