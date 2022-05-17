@@ -156,7 +156,7 @@
     - Eduardo Figueiredo
   title: "Microservice Smells and Automated Detection Tools: A Systematic Literature Review (online)"
   paper: paper_11.pdf
-#  slides: empty_slides.pdf
+  slides: slides_11.pdf
   abstract: |
     Several microservice smells and automated detection tools has been proposed and studied in the literature, but they still lack a cohesive and 
     organized documentation and consistent terminology. To fill this gap, this work presents a systematic literature review of 15 papers that 
