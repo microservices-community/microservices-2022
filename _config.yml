@@ -36,7 +36,7 @@ exclude:
   - alembic-jekyll-theme.gemspec
 
 #------------------------------------------------------------------------------
-logo: "/assets/images/microservices.svg"
+logo: "/assets/images/microservices.png"
 url: "https://conf-micro.services/"
 avatarurl: "/assets/images/favicon.ico"
 
